@@ -1,2 +1,6 @@
-# Telecom-Customer-Churn-Prediction-and-Retention-Analytics
-Machine Learning based customer churn prediction and retention analytics solution using Python, Scikit-Learn and Power BI.
+WA_Fn-UseC_-Telco-Customer-Churn.csv
+Telecom_Customer_Churn_Prediction.pbix
+feature_importance.csv
+model_comparison.csv
+churn_predictions.csv
+Telecom_Churn_Analysis.ipynb
