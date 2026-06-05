@@ -220,3 +220,16 @@ Telecom-Customer-Churn-Prediction-and-Retention-Analytics/
 B.Sc. Data Science & Big Data Analytics
 
 GitHub: Tanishq0909
+## Dashboard Screenshots
+
+### Executive Overview
+
+![Executive Overview](screenshots/executive_overview.png)
+
+### Churn Analysis
+
+![Churn Analysis](screenshots/churn_analysis.png)
+
+### Churn Prediction Dashboard
+
+![Churn Prediction Dashboard](screenshots/churn_prediction_dashboard.png)
